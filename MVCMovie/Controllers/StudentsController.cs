@@ -22,8 +22,7 @@ namespace MVCMovie.Controllers
             ViewBag.CurrentSort = sortOrder;
             ViewBag.NameSortParm = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
             ViewBag.DateSortParm = sortOrder == "Date" ? "date_desc" : "Date";
-            var students = from s in db.Students
-                           select s;
+            
             if (searchString != null)
             {
                 page = 1;
@@ -34,6 +33,13 @@ namespace MVCMovie.Controllers
             }
 
             ViewBag.CurrentFilter = searchString;
+            var students = from s in db.Students
+                           select s;
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                students = students.Where(s => s.LastName.Contains(searchString)
+                                       || s.FirstMidName.Contains(searchString));
+            }
             switch (sortOrder)
             {
                 case "name_desc":

@@ -186,3 +186,7 @@ C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\bin\PagedList.dll
 C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\bin\PagedList.Mvc.dll
 C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\bin\PagedList.xml
 C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\bin\PagedList.Mvc.xml
+C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.MaxLengthOnNames.resources
+C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.ColumnFirstName.resources
+C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.InitialCreate1.resources
+C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.DepartmentSP.resources
