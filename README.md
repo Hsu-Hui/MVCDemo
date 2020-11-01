@@ -1,2 +1,2 @@
-# MVCMovie
+# MVCDemo
 MVC Demo
