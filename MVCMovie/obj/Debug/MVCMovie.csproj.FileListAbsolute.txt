@@ -182,3 +182,7 @@ C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migration
 C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.GenerateResource.cache
 C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Initial.resources
 C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.DataAnnotations.resources
+C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\bin\PagedList.dll
+C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\bin\PagedList.Mvc.dll
+C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\bin\PagedList.xml
+C:\Users\Hsu-Hui\Documents\GitHub\MVCMovie\MVCMovie\bin\PagedList.Mvc.xml
